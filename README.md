@@ -4,52 +4,72 @@
 
 **Strategy. Momentum. Growth.**
 
-I work at the intersection of digital marketing, search engine optimization, website management, and data-driven decision-making.
+I specialize in digital marketing, search engine optimization, website management, and data-driven digital growth.
 
-My focus is on improving organic search visibility, identifying technical website issues, developing actionable SEO strategies, and using analytics to support digital growth.
+My experience spans banking, automotive, travel, and education, combining website operations and technical SEO with content optimization, performance analysis, and digital strategy.
 
-### What I Work On
-
-* **Technical SEO:** Website audits, crawlability, indexation, canonicalization, and Core Web Vitals.
-* **SEO Strategy:** Keyword research, keyword mapping, on-page optimization, and content planning.
-* **Digital Analytics:** Google Analytics 4, Google Search Console, performance monitoring, and reporting.
-* **Website Management:** CMS administration, content optimization, and website quality assurance.
-* **Digital Growth:** Connecting search performance, user experience, and business objectives.
-
-### Tools & Technologies
-
-**SEO & Research**
-Semrush · Ahrefs · Screaming Frog · Google Search Console
-
-**Analytics & Reporting**
-Google Analytics 4 · Excel · Looker Studio · Power BI
-
-**Web & Technical**
-HTML · CSS · JavaScript · Magnolia CMS · PageSpeed Insights
-
-**Productivity & AI**
-GitHub · ChatGPT · AI-assisted research and workflows
-
-### Selected Project Experience
-
-* **Automotive SEO:** Website inventory, URL classification, keyword mapping, metadata planning, and technical SEO recommendations.
-* **Travel SEO:** Content optimization, multilingual SEO considerations, itinerary improvements, and structured content planning.
-* **Education & Training:** SEO audits, content enhancement, and organic search optimization.
-
-*Project details and results will be published where client confidentiality permits.*
-
-### Current Focus
-
-* Developing my professional SEO and digital marketing portfolio.
-* Improving technical SEO and website performance analysis.
-* Expanding my data analytics and reporting capabilities.
-* Building practical resources and workflows for SEO professionals.
-
-### Let's Connect
-
-* **LinkedIn:** www.linkedin.com/in/ahmed-maher-digital-marketing
-* **Portfolio:** Coming soon.
+I focus on turning website data and technical insights into actionable improvements that support search visibility, user experience, and business objectives.
 
 ---
 
-*Building better digital experiences through strategy, analysis, and continuous improvement.*
+## Professional Expertise
+
+* **Technical SEO:** Website audits, crawlability, indexation, canonicalization, and Core Web Vitals.
+* **SEO Strategy:** Keyword research, keyword mapping, on-page optimization, and content planning.
+* **Digital Marketing:** Website campaigns, product pages, promotional content, and digital channel operations.
+* **Website Management:** Magnolia CMS, content administration, publishing workflows, and quality assurance.
+* **Digital Analytics:** Google Analytics 4, Google Search Console, performance monitoring, and reporting.
+* **Website Optimization:** Technical issue identification, metadata improvements, and content quality checks.
+
+## Industry Experience & Selected Projects
+
+### Banking & Financial Services
+
+**Digital Marketing & Website Operations — ALEXBANK**
+
+Experience working in a regulated banking environment, supporting website management, SEO activities, campaign publishing, and digital content operations.
+
+Areas of responsibility include:
+
+* Managing and updating website content through Magnolia CMS.
+* Supporting on-page SEO and metadata optimization.
+* Publishing campaign pages, product information, promotions, and terms and conditions.
+* Performing content quality checks and supporting approval workflows.
+* Identifying website optimization opportunities.
+
+*Public documentation will exclude confidential information, internal reports, customer data, and proprietary materials.*
+
+### Automotive
+
+**Chery UAE — SEO Audit & Website Optimization**
+
+Focus areas:
+
+* Website inventory and URL classification.
+* Technical SEO auditing and indexation analysis.
+* Keyword mapping and metadata planning.
+* Sitemap and robots.txt review.
+* Prioritization of SEO implementation opportunities.
+
+### Travel & Tourism
+
+**FindSocotra — SEO Content & Website Optimization**
+
+Focus areas:
+
+* SEO content enhancement and itinerary optimization.
+* Multilingual SEO considerations.
+* FAQ development and structured content planning.
+* Keyword targeting and content improvements.
+
+### Education & Professional Training
+
+**E&Academy — SEO & Content Optimization**
+
+Focus areas:
+
+* Website SEO auditing.
+* Content enhancement opportunities.
+* Organic search optimization recommendations.
+
+*Project descriptions reflect areas of work and methodology; performance results will be included only wh*
